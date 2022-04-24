@@ -73,6 +73,11 @@ public class Variables {
 		
 		System.out.println("Hello \\ \t World");
 		
+		//final in variables: you cannot reassign a final variable
+		final int age = 20;
+		
+		//age = 25; //cannot do because age is final 
+		
 	}
 
 }

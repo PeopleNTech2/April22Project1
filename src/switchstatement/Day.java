@@ -1,4 +1,4 @@
-package switchkw;
+package switchstatement;
 
 public class Day {
 
