@@ -1,4 +1,4 @@
-assignment:
+assignment 1: temp converter
 temp c --> f
 temp f --> c
 
@@ -29,3 +29,31 @@ Homework
 100 code lab exercises
 10 test cases with at least 5 steps
 Assignment: temp converter
+
+Assignment 2: shuffle game
+
+shuffle game assignment (array, methods, if statement, loop, recursive method, interface)
+
+----------------------welcome to shuffle game---------------------
+guess where the 0 is ?
+are you ready to play? y/n
+
+if y:
+shuffle the game
+pick 1, 2 or 3!
+if good guess:
+good guess!
+if not good guess:
+sorry!!! wrong guess
+
+do you want to try again? y/n
+if answer is not y/n keep asking the question
+
+if y:
+loop the game
+if n:
+see you next time!
+-------------------------------------------------------------------------------------------
+Homework:
+300 CodeLab exercises
+10 test cases

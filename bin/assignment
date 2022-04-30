@@ -1,0 +1,31 @@
+assignment:
+temp c --> f
+temp f --> c
+
+func:
+f = (c*9/5)+32
+
+c = (f-32)*5/9
+
+-----------------------------------Welcome------------------------------------------
+---Celsius-Fahrenheit/Fahrenheit-Celsius converter----
+
+choose the conversion mode:
+1- Celsius-Fahrenheit
+2- Fahrenheit-Celsius
+
+Enter the temperature to convert:
+
+value C ------------------> value F or value F----------------> value C
+
+do you want to convert other temperatures ? 1- Yes/2- No
+
+if yes (do again - loop)
+
+if no
+-------------------------------Good bye, see you soon---------------------------
+
+Homework
+100 code lab exercises
+10 test cases with at least 5 steps
+Assignment: temp converter

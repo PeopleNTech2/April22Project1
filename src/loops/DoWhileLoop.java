@@ -9,8 +9,7 @@ public class DoWhileLoop {
 		do {
 			System.out.println("I am not going to talk in the class anymore");
 			x++;
-		}
-		while(x < 10);
+		} while(x < 10);
 
 	}
 

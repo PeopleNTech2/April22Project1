@@ -1,8 +1,7 @@
 package oops.abstraction;
 
 public class TestCar {
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws InterruptedException {
         Toyota corolla = new Toyota();
         corolla.start();
         corolla.stop();
