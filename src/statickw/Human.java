@@ -5,7 +5,7 @@ public class Human {
 	int height;
 	static int weight;
 	
-	//non static method can use both static and non static variables
+	//non-static method can use both static and non static variables
 	public void person1() {
 		height = 8;
 		weight = 190;
