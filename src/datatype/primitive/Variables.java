@@ -10,9 +10,13 @@ public class Variables {
 		//numbers 
 			//whole number
 			byte b = 127;//1 byte
+			Byte by = 127;
 			short s = 2542;//2 bytes
+			Short sho = 524;
 			int x = 2147483647;//4 bytes
+			Integer integer = 15485;
 			long l = 654255114158365451L;//8 bytes
+			Long lo = 458745125L;
 			
 			//variable declaration
 			int i;
@@ -26,14 +30,18 @@ public class Variables {
 		
 			//fractions
 			float f = 1.255454F;//4 bytes
+			Float flo = 1.1548754F;
 			double d = 1.1244654615461316543183181384435155;//8 bytes
+			Double dou = 1.154862655254;
 				
 		//character
 		char a1 = '&';//2 bytes
+		Character character = '*';
 		char a2 = '+';
 				
 		//boolean
 		boolean boo = true;//1 bit (1/8 byte)
+		Boolean bool = false;
 		System.out.println(ageOfTheDog);
 		System.out.println(i);
 		System.out.println(a1);

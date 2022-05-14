@@ -7,6 +7,8 @@ public class Array {
 		//syntax: variableType[] arrayName = {value1, value2, value3...};
 		
 		int[] myArray = {2, 5, 7, 3, 9};
+
+		System.out.println(myArray);
 //		System.out.println(myArray[0]);
 //		
 //		System.out.println(myArray[4]);
