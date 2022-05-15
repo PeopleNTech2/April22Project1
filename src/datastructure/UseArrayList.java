@@ -1,6 +1,7 @@
 package datastructure;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class UseArrayList {
@@ -42,5 +43,14 @@ public class UseArrayList {
         list1.add("word");
 
         System.out.println(list1);
+
+        Iterator it = list.iterator();
+//        while (iterator.hasNext()){
+//            System.out.println(iterator.next());
+//        }
+        System.out.println(it.next());
+        System.out.println(it.next());
+        System.out.println(it.next());
+        System.out.println(it.next());
     }
 }
